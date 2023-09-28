@@ -1,0 +1,8 @@
+---
+# hub metadata
+name: exampleMongoHub
+type: mock
+---
+# hub config
+color: orange
+taste: sweet
