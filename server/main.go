@@ -7,5 +7,5 @@ import (
 )
 
 func main() {
-	fmt.Println("Hàm init() trong server/hub/builder.go sẽ chạy chước để khởi tạo giá trị hub ban đầu")
+	fmt.Println("Hàm init() trong server/hub/builder.go sẽ chạy trước để khởi tạo giá trị hub ban đầu")
 }
