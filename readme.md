@@ -163,3 +163,15 @@ func init() {
   - import `_ "github.com/thanxuanvinh/mesage/server/service"`
 
 Để chạy hàm init() trong server/service/builder.go
+
+## Phần 4
+
+- check file yaml config của service, và lưu config service đã khởi tạo ở bước 3
+
+### 4_B1
+
+- services/manager.go
+
+- services/builders.go
+  - Thêm hàm `Build`
+  
