@@ -8,6 +8,7 @@ import (
 
 	sio "github.com/thanxuanvinh/mesage/io"
 	_ "github.com/thanxuanvinh/mesage/server/hub"
+	_ "github.com/thanxuanvinh/mesage/server/service"
 )
 
 func main() {
