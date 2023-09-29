@@ -1,0 +1,7 @@
+---
+# service metadata
+name: examplePrinter
+type: mock
+---
+# service build config
+defaultMode: CAP
